@@ -57,8 +57,8 @@ For installation instructions, see the [Basic Pipelines Installation Guide](doc/
 See our [Developement Guide](doc/basic-pipelines.md#development-guide) for more information on how to use the pipelines to create your own custom pipelines.
 
 #### [Integration with Flet UI](doc/fletui.md#hailo-rpi5-basic-pipelines)
-![Flet UI ](doc/images/RPI_select_device.png)
 ![Flet UI ](doc/images/ui.png)
+![Flet UI ](doc/images/102273996.png)
 
 
 
