@@ -58,7 +58,6 @@ See our [Developement Guide](doc/basic-pipelines.md#development-guide) for more 
 
 #### [Integration with Flet UI](doc/fletui.md#hailo-rpi5-basic-pipelines)
 ![Flet UI ](doc/images/ui.png)
-![Flet UI ](doc/images/102273996.png)
 
 
 
