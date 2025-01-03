@@ -30,7 +30,7 @@ except ImportError:
 class app_callback_class:
     def __init__(self):
         self.frame_count = 0
-        self.use_frame = False
+        self.use_frame = True
         self.frame_queue = multiprocessing.Queue(maxsize=3)
         self.running = True
 

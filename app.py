@@ -127,7 +127,7 @@ async def main(page: ft.Page):
                     "basic_pipelines/detection.py",
                     "--input", selected_device,
                     "--show-fps",
-                    "--use-frame",  # Added this argument
+                    "-u",  # Added this argument
                 ],
                 stdout=PIPE,
                 stderr=PIPE,
