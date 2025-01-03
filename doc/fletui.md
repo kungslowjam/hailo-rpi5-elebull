@@ -26,5 +26,6 @@ Run example using USB camera - Use the device found by the previous script:
 ```
 Run example using USB camera and Flet UI
 ```bash
+pip install -r requirements.txt
 flet run app.py
 ```
