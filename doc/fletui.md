@@ -17,7 +17,7 @@ Run the following script to automate the installation process:
 ./install.sh
 ```
 ```bash
-    source setup_env.sh
+source setup_env.sh
 ```
 Run example using USB camera - Use the device found by the previous script:
 
