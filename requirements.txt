@@ -2,5 +2,3 @@ numpy
 setproctitle
 opencv-python
 flet
-opencv-python
-opencv-python-headless
