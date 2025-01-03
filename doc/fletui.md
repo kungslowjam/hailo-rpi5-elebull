@@ -4,7 +4,7 @@ This repository contains examples of basic pipelines using Hailo's H8 and H8L ac
 ## Installation
 ### Clone the Repository
 ```bash
-git clone https://github.com/hailo-ai/hailo-rpi5-examples.git
+git clone https://github.com/kungslowjam/hailo-rpi5-elebull.git
 ```
 Navigate to the repository directory:
 ```bash
